@@ -1,2 +1,0 @@
-# amywood-coursework
-Coursework
