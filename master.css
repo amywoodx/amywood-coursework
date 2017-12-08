@@ -1,0 +1,136 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+html {
+    background-color: #A6A6A8;
+}
+
+body {
+  width: auto;
+  margin: auto;
+  min-width: inherit;
+  max-width: none;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Trebuchet MS;
+  padding-top: 60px;
+  color: #28112B;
+  text-align: center;
+}
+
+
+ul {
+  text-align: center;
+  font-size: 25px;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 10px 10px 80px;
+  text-decoration: none;
+  margin-left: 220px;
+}
+
+header {
+  padding-top: 5px;
+  padding-bottom: none;
+  background-color:  #D3D0CB;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+nav {
+  background-color:  #D3D0CB;
+  display: inline-flex;
+}
+
+main {
+  padding-top: 30px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 200px;
+}
+
+.icon{
+  float: right;
+  padding-left: 100px;
+}
+
+.icon1{
+
+  font-size: 25px;
+  margin-right: none;
+}
+
+.col2 {
+  float: right;
+  padding-left: 100px;
+}
+
+.col {
+  float: right;
+}
+
+.map {
+  float: left;
+  margin-left: 30px;
+  padding-bottom: 50px;
+
+}
+
+.youtube {
+  float: right;
+  margin-right: 30px;
+
+}
+
+.container {
+  font-size: 24px;
+}
+
+.form {
+  font-size: 25px;
+  margin-left: 457px
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    margin-left: 200px;
+}
+
+.container1 {
+  float: left;
+}
+
+.spotify {
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+.details {
+  margin-top: 30px;
+
+  font-size: 25px;
+}
+
+.picture1 {
+  margin-left: 140px;
+}
+
+.picture2 {
+  margin-left: 200px;
+}
